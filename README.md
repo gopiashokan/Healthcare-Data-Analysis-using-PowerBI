@@ -30,11 +30,11 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
 
    - **Daily Visits:** The daily visitor trend shows a gradual increase from the start of each month, peaking towards the end, and then dropping on the last day. This suggests a higher influx of visitors in the final week of every month.
 
-   - **Monthly Visits:** From April to October, there was a notable increase in visitor counts, particularly during the summer and rainy seasons. This trend suggests that seasonal factors significantly influence hospital traffic, leading to higher patient volumes during these times.
+   - **Monthly Visits:** From April to October, there was a noticeable increase in visitor counts, particularly during the summer and rainy seasons. This trend indicates that seasonal factors significantly impact hospital traffic.
    
-   - **Yearly Visits:** Visitor counts increased by 5.8% from 2019 to 2020, which may indicate a rise in health issues or an enhanced level of trust in the hospital’s services among the community. This growth could reflect both a greater demand for healthcare and improved patient satisfaction.
+   - **Yearly Visits:** The Visitor counts increased by **5.8%** from 2019 to 2020, suggesting either an increase in health issues or growing trust in the hospital’s services. This rise may reflect both higher demand for healthcare and improved patient satisfaction.
 
-   - **Quarterly Visits:** The second and third quarters demonstrated visitor volumes that were 53.9% higher than those recorded in the first and fourth quarters. This trend highlights that mid-year periods tend to be busier, possibly due to seasonal illness peaks or increased healthcare-seeking behavior during these times.
+   - **Quarterly Visits:** The second and third quarters exhibited visitor volumes that were **53.9%** higher than the first and fourth quarters. This indicates that mid-year periods are busier, potentially due to seasonal illness peaks.
 
 
 #### Time-Based Distribution:
