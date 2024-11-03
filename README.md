@@ -3,7 +3,7 @@
 
 **Introduction**
 
-Analyze healthcare data effectively using Power BI to uncover patterns, trends, and actionable insights. This project explores patient demographics, visit trends, and satisfaction scores, providing a comprehensive view of hospital performance over time. By leveraging DAX functions and interactive dashboards, it highlights crucial areas for quality improvement and resource allocation, empowering data-driven decisions in healthcare management.
+This project aims to develop a comprehensive dashboard using Power BI to visualize key trends and patterns in hospital visitor data. By utilizing Data Analysis Expressions (DAX) for in-depth calculations, we offer actionable insights that support informed decision-making in the healthcare sector. The analysis focuses on enhancing the understanding of patient demographics and service utilization, ultimately improving operational efficiency and patient satisfaction. Through effective data visualization, the project empowers healthcare professionals to make data-driven decisions that enhance patient care and optimize resource management.
 
 <br />
 
