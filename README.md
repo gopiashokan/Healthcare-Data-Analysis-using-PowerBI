@@ -3,7 +3,7 @@
 
 **Introduction**
 
-This project aims to develop a comprehensive dashboard using Power BI to visualize key trends and patterns in hospital visitor data. By utilizing Data Analysis Expressions (DAX) for in-depth calculations, we offer actionable insights that support informed decision-making in the healthcare sector. The analysis focuses on enhancing the understanding of patient demographics and service utilization, ultimately improving operational efficiency and patient satisfaction. Through effective data visualization, the project empowers healthcare professionals to make data-driven decisions that enhance patient care and optimize resource management.
+This project aims to develop a comprehensive dashboard using Power BI to visualize key trends and patterns in hospital visitor data. By utilizing Data Analysis Expressions (DAX) for in-depth calculations, we offer actionable insights that support informed decision-making in the healthcare sector. The analysis focuses on enhancing the patient demographics and service utilization, ultimately improving operational efficiency and patient satisfaction. Through effective data visualization, the project empowers healthcare professionals to make data-driven decisions that enhance patient care and optimize resource management.
 
 <br />
 
