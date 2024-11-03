@@ -66,9 +66,9 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
 
    - **Satisfaction Score Distribution:** The average satisfaction score is **5 out of 10**, indicating that most visitors have a neutral or average perception of the services, showing room for quality improvement.
 
-   - **Department Referrals:** General Practice and Orthopedics account for **30.75%** of all referrals, while non-referred (walk-in) cases are high at 58.67%.
+   - **Department Referrals:** General Practice and Orthopedics patients account for **30.75%**, while other departments, including Physiotherapy and Cardiology, represent **10.64%**. Notably, non-referred patients constitute a substantial **58.67%** of total visitors.
 
-   - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, suggesting that the remaining **49.96%** are likely visitors or individuals not yet registered for treatment.
+   - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, suggesting that the remaining **49.96%** are likely visitors or individuals not yet registered for treatment. This highlights the need for effective patient registration processes.
 
 
 <br />
