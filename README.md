@@ -48,18 +48,18 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
 
 #### Visitor Wait Time Analysis:
 
-   - **Average Wait Time:** On average, visitors wait about 35 minutes, with 90.9% experiencing waits between 20 to 60 minutes. This indicates a significant area for potential process improvement in reducing wait times.
+   - **Average Wait Time:** On average, visitors wait about 35 minutes, with **90.9%** experiencing waits between 20 to 60 minutes. This indicates a significant area for potential process improvement in reducing wait times.
    
-   - **Short Wait Times:** Only 9.1% of visitors experience shorter wait times of 10 to 20 minutes. This low percentage highlights a clear opportunity to enhance service speed and overall patient satisfaction.
+   - **Short Wait Times:** Only **9.1%** of visitors experience shorter wait times of 10 to 20 minutes. This low percentage highlights a clear opportunity to enhance service speed and overall patient satisfaction.
 
 
 #### Demographic Insights:
 
-   - **Age Group Distribution:** Visitors of all ages (0 to 75) show similar frequency, while the 75+ age group represents only **5.04%**, possibly reflecting either fewer visits or a smaller population.
+   - **Age Group Distribution:** Visitors of all ages (0 to 75) show similar frequency, while the 75+ age group constitutes only **5.04%**. This may reflect either fewer visits or a smaller demographic within this age range.
    
-   - **Race Distribution:** White and African American visitors make up the majority, followed by Asians at a moderate count, with Pacific Islander and Native American groups at around 10% combined.
+   - **Race Distribution:** White and African American visitors comprise the majority, with Asians at a moderate count. Pacific Islander and Native American groups together account for **11.37%**, reflecting a diverse patient population.
    
-   - **Gender Distribution:** Male visitors are slightly higher in count by **4.86%** compared to females, with "Not Specified" making up a minimal **0.26%**.
+   - **Gender Distribution:** Male visitors outnumber females by **4.86%**, while the "Not Specified" category represents a minimal 0.26%. This slight gender disparity highlights the need for targeted engagement strategies.
 
 
 #### Satisfaction and Departmental Insights:
