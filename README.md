@@ -43,7 +43,7 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
    
    - **Day of Week Distribution:** Visitor volumes peak on Mondays and Wednesdays, while Fridays have the lowest counts. This suggests a mid-week preference for hospital visits, possibly due to increased medical needs.
    
-   - **Weekday vs. Weekend:** Weekday visits are **148.83%** higher than weekends, reflecting significant weekday traffic. This large difference due to fewer staff or reduced hours on weekends, encouraging visits during week.
+   - **Weekday vs. Weekend:** Weekday visits are **148.83%** higher than weekends, reflecting significant weekday traffic. This large difference is due to fewer staff or reduced hours on weekends, encouraging visits during the week.
 
 
 #### Visitor Wait Time Analysis:
