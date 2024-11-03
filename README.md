@@ -68,7 +68,7 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
 
    - **Department Referrals:** General Practice and Orthopedics patients account for **30.75%**, while other departments, including Physiotherapy and Cardiology, represent **10.64%**. Notably, non-referred patients constitute a substantial **58.67%** of total visitors.
 
-   - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, suggesting that the remaining **49.96%** are likely visitors or individuals not yet registered for treatment. This highlights the need for effective patient registration processes.
+   - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, while **49.96%** are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
 
 
 <br />
