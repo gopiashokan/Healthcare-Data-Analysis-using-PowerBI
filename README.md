@@ -39,11 +39,11 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
 
 #### Time-Based Distribution:
 
-   - **Moment Distribution:** Visitor flow is almost evenly split between AM and PM, with a marginal **0.6%** increase in visits during AM hours. This suggests that the hospital experiences steady demand throughout the day, possibly due to a balanced distribution of appointments and walk-ins across morning and afternoon hours.
+   - **Moment Distribution:** Visitor flow is nearly evenly split between AM and PM hours, with a slight **0.6%** increase during AM visits. This indicates steady demand throughout the day, likely from a mix of appointments and walk-ins.
    
-   - **Day of Week Distribution:** The highest visitor volumes are seen on Mondays and Wednesdays, while Friday sees the lowest count of the week. This pattern indicates a mid-week peak in hospital visits, which might relate to scheduling preferences or a greater need for medical attention earlier in the week.
+   - **Day of Week Distribution:** Visitor volumes peak on Mondays and Wednesdays, while Fridays have the lowest counts. This suggests a mid-week preference for hospital visits, possibly due to increased medical needs.
    
-   - **Weekday vs. Weekend:** Weekday visits are **148.83%** higher than on weekends, reflecting a significant increase in weekday traffic. This large difference could be due to fewer staff or reduced operating hours on weekends, encouraging most visitors to seek medical services during the workweek.
+   - **Weekday vs. Weekend:** Weekday visits are **148.83%** higher than on weekends, reflecting significant weekday traffic. This large difference may be due to fewer staff or reduced hours on weekends, encouraging visits during the week.
 
 
 #### Visitor Wait Time Analysis:
