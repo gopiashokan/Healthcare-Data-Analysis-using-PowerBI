@@ -43,14 +43,14 @@ Analyze healthcare data effectively using Power BI to uncover patterns, trends, 
    
    - **Day of Week Distribution:** Visitor volumes peak on Mondays and Wednesdays, while Fridays have the lowest counts. This suggests a mid-week preference for hospital visits, possibly due to increased medical needs.
    
-   - **Weekday vs. Weekend:** Weekday visits are **148.83%** higher than weekends, reflecting significant weekday traffic. This large difference is due to fewer staff or reduced hours on weekends, encouraging visits during the week.
+   - **Weekday vs Weekend:** Weekday visits are **148.83%** higher than weekends, reflecting significant weekday traffic. This large difference is due to fewer staff or reduced hours on weekends, encouraging visits during the week.
 
 
 #### Visitor Wait Time Analysis:
 
-   - **Average Wait Time:** On average, visitors wait about 35 minutes, with **90.9%** experiencing waits between 20 to 60 minutes, indicating an area for potential process improvement.
+   - **Average Wait Time:** On average, visitors wait about 35 minutes, with 90.9% experiencing waits between 20 to 60 minutes. This indicates a significant area for potential process improvement in reducing wait times.
    
-   - **Short Wait Times:** Only **9.1%** of visitors experience shorter wait times(10-20 mins), highlighting an opportunity to enhance service speed.
+   - **Short Wait Times:** Only 9.1% of visitors experience shorter wait times of 10 to 20 minutes. This low percentage highlights a clear opportunity to enhance service speed and overall patient satisfaction.
 
 
 #### Demographic Insights:
