@@ -19,12 +19,25 @@ Created an interactive dashboard using Power BI to reveal key trends in hospital
 
 **Key Technologies and Skills**
 - Power BI
+- Power Query Editor
 - Data Analysis Expressions (DAX)
-- Power Query
+- Excel
 
 <br />
 
 **Features**
+
+#### Data Understanding:
+
+The healthcare dataset includes features like Date, ID, Gender, Age, Race, Moment (AM/PM), Weekday/Weekend, Admin Flag (Patient/Non-Patient), Department Referral, and Satisfaction Score. These fields allow for a detailed look at visitor demographics, visit timings, and department engagement, creating a strong basis for trend analysis and operational insights.
+
+
+#### Data Preprocessing:
+
+   - **Data Normalization and Imputation:** In the Power Query Editor, the dataset underwent an ETL (Extract, Transform, Load) process, which included normalization by splitting tables to enhance data organization and clarity. Missing values were addressed through imputation techniques, ensuring that the dataset remained robust and reliable for analysis while maintaining consistency across various features.
+
+   - **DAX Calculations and Data Modeling:** Data Analysis Expressions(DAX) were utilized to create calculated fields for aggregation, allowing for sophisticated analysis of the healthcare data. This facilitated effective data modeling by establishing relationships between tables, enabling comprehensive insights and enhancing the overall interpretability of the dashboard.
+
 
 #### Visit Trends and Patterns:
 
